@@ -23,7 +23,7 @@
       <tr>
        <td><img alt="Devorein :: Profile stats" src="https://github-readme-stats.vercel.app/api?username=AsifZaman777&show_icons=true&theme=dark"> </td>
         <td><img alt="Devorein :: Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AsifZaman777&theme=dark"></td>
-          <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kishormorol&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
+          
      </tr>
    </table>
 
