@@ -22,8 +22,7 @@
      </tr>
       <tr>
        <td><img alt="Devorein :: Profile stats" src="https://github-readme-stats.vercel.app/api?username=AsifZaman777&show_icons=true&theme=dark"> </td>
-        <td><img alt="Devorein :: Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AsifZaman777&theme=dark"></td>
-          
+        <td><img alt="Devorein :: Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AsifZaman777&theme=dark"></td>    
      </tr>
    </table>
 
