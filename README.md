@@ -27,7 +27,5 @@
       <tr>
       </tr>
    </table>
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AsifZaman777)](https://github.com/AsifZaman777/github-readme-stats) 
-
+ 
 </p>
