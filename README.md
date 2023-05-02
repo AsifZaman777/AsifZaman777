@@ -24,9 +24,12 @@
        <td><img alt="Devorein :: Profile stats" src="https://github-readme-stats.vercel.app/api?username=AsifZaman777&show_icons=true&theme=dark"> </td>
         <td><img alt="Devorein :: Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AsifZaman777&theme=dark"></td>  
      </tr>
+      <tr>
+         <td colspan="2"> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) </td>
+      </tr>
    </table>
    
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+ 
 
 
 </p>
