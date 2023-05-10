@@ -18,7 +18,6 @@
       <tr>
        <th>
 𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚜𝚝𝚊𝚝𝚜</th>
-        <th>𝙲𝚘𝚗𝚝𝚛𝚒𝚋𝚞𝚝𝚒𝚘𝚗𝚜</th>
      </tr>
       <tr>
        <td><img alt="Devorein :: Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AsifZaman777&theme=dark"></td>  
