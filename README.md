@@ -1,4 +1,5 @@
-<h1 align="center">👋 Hi there, I'm Asif. I am currently working in a Asp.Net and React.</h1>
+# Asif Zaman
+👋 Hi there, I'm Asif. I am currently working in a Asp.Net and React.
 
 To learn more about me and my research, please visit https://sites.google.com/view/asif-zaman
 
@@ -12,19 +13,26 @@ To learn more about me and my research, please visit https://sites.google.com/vi
 <div align="center">
 <img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g?raw=true" data-hpc="true">
 <h4>Working on React + Asp.Net Core</h4>
-</div>
 <br><br>
 <p align="center">
-   <table width="100%">
+   <table>
       <tr>
-       <th>
-𝙿𝚛𝚘𝚏𝚒𝚕𝚎 𝚜𝚝𝚊𝚝𝚜</th>
+       <th>Profile stats </th>
+       <th>Language Contribution</th>
      </tr>
       <tr>
-       <td><img alt="Devorein :: Contributions" src="https://github-readme-streak-stats.herokuapp.com/?user=AsifZaman777&theme=dark"></td>  
+       <td><img alt="Devorein :: Profile Stats" src="https://github-readme-stats.vercel.app/api?username=AsifZaman777&show_icons=true&theme=dark"> </td>
+       <td><img alt="Devorein :: Top Langs]" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifZaman777&langs_count=10&theme=tokyonight&layout=compact&hide=html"> </td>
      </tr>
-      <tr>
-      </tr>
    </table>
+</p>
+   
+</div>
+
+
+
+
+
+
  
 </p>
