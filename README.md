@@ -1,17 +1,19 @@
-<h1 align="center">👋 I'm Asif Zaman</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">👋 Hi there, I'm Asif. I am currently working in a Asp.Net and React.</h1>
 
-<p>Connect me :  <a href="mailto:eramasif16@gmail.com">Asif Zaman</a></p>
-<p><a href="https://sites.google.com/view/asif-zaman/home">Portfolio</a></p>
+To learn more about me and my research, please visit https://sites.google.com/view/asif-zaman
 
-<br><br>
+<h3 align="center"> Connect with Me at </h3>
+<p align="center">
+<a href="mailto:eramasif16@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-eramasif16@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="https://www.linkedin.com/in/asif-zaman-b9b881212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Asif Zaman-blue?style=flat&logo=linkedin"></a>
+</p>
+
+<br>
 <div align="center">
 <img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g?raw=true" data-hpc="true">
 <h4>Working on React + Asp.Net Core</h4>
 </div>
-
-<br><br><br><br>
-
+<br><br>
 <p align="center">
    <table width="100%">
       <tr>
