@@ -1,3 +1,6 @@
+<h1 align="center">👋 I'm Asif Zaman</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
+
 <p>Connect me :  <a href="mailto:eramasif16@gmail.com">Asif Zaman</a></p>
 <p><a href="https://sites.google.com/view/asif-zaman/home">Portfolio</a></p>
 
