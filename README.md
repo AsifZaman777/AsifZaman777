@@ -1,7 +1,7 @@
 <p>Connect me :  <a href="mailto:eramasif16@gmail.com">Asif Zaman</a></p>
 <p><a href="https://sites.google.com/view/asif-zaman/home">Portfolio</a></p>
 
-![Alt Text](![Alt Text](https://camo.githubusercontent.com/cc970ca71436129d452abe304b052203754cf170951dd0a2a1903613f5b32999/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f37332f65312f35342f37336531353432323031316537363365613962333033613737333865373161332e676966)
+![Alt Text](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 
 <p align="center">
