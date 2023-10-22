@@ -1,11 +1,13 @@
 <p>Connect me :  <a href="mailto:eramasif16@gmail.com">Asif Zaman</a></p>
 <p><a href="https://sites.google.com/view/asif-zaman/home">Portfolio</a></p>
 
-
+<br><br>
+<fig align="center">
 ![Alt Text](https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 <p>Working on React + Asp.Net Core</p>
+</fig>
 
-
+<br><br><br><br>
 
 <p align="center">
    <table width="100%">
