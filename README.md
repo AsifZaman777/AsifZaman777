@@ -12,7 +12,7 @@ To learn more about me and my research works, please visit https://sites.google.
 <br>
 <div align="center">
 <img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g?raw=true" data-hpc="true">
-<h4>Working on React + Asp.Net Core</h4>
+<h4>Javascript developer</h4>
 <br><br>
 <p align="center">
    <table>
