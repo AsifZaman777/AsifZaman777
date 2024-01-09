@@ -1,7 +1,7 @@
 # Asif Zaman
-👋 Hi there, I'm Asif. I am currently working on Asp.Net and React.
+👋 Hi there, I'm Asif. I am currently working as an Associate Software Engineer at Rahimafrooz, Bangladesh.
 
-To learn more about me and my research, please visit https://sites.google.com/view/asif-zaman
+To learn more about me and my research works, please visit https://sites.google.com/view/asif-zaman
 
 <h3 align="center"> Connect with Me at </h3>
 <p align="center">
