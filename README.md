@@ -1,5 +1,5 @@
 # Asif Zaman
-👋 Hi there, I'm Asif. I am currently working as an Associate Software Engineer at Rahimafrooz, Bangladesh.
+👋 Hi there, I'm Asif. I am currently working as an Associate Software Engineer at Automind IT, Bangladesh.
 
 To learn more about me and my research works, please visit https://asifzaman777.github.io/asifzaman/
 
