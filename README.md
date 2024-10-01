@@ -5,7 +5,7 @@ To learn more about me and my research works, please visit https://asifzaman777.
 
 <h3 align="center"> Connect with Me at </h3>
 <p align="center">
-<a href="mailto:asifzaman3123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-eramasif16@gmail.com-red?style=flat&logo=gmail"></a>
+<a href="mailto:asifzaman3123@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Gmail-asifzaman3123@gmail.com-cyan?style=flat&logo=gmail"></a>
 <a href="https://www.linkedin.com/in/asif-zaman-b9b881212/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Asif Zaman-blue?style=flat&logo=linkedin"></a>
 </p>
 
