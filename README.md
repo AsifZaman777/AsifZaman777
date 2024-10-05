@@ -12,7 +12,7 @@ To learn more about me and my research works, please visit https://asifzaman777.
 <br>
 <div align="center">
 <img  src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g?raw=true" data-hpc="true">
-<h4>Javascript developer</h4>
+<h4>Experienced in cross-platform development (React native) and ERP solutions (ASP.NET)</h4>
 <br><br>
 <p align="center">
    <table>
