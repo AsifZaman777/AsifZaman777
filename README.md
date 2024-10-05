@@ -2,7 +2,7 @@
 👋 Hi there, I'm Asif. I am currently working as a Junior IT executive at Lanka Bangla Securities, Bangladesh.
 
 ## Development experience:
-Mainly I have worked on React JS mainly in MERN stack for a long time approximately 2 years. I have developed mobile apps (IOS and android) for multiple startup and web-based solutions as well. Currently, I am switching my stack to ASP.Net to push my development capability to the spike. As a software engineer at Lanka Bangla, my responsibility is to develop solutions for trading and capital market complex solutions.
+Mainly I have worked on `React JS` mainly in `MERN stack` for a long time approximately 2 years. I have developed `mobile apps (IOS and android)` for multiple startup and web-based solutions as well. Currently, I am switching my stack to `ASP.Net` to push my development capability to the spike. As a software engineer at Lanka Bangla, my responsibility is to develop solutions for `trading and capital market complex solutions`.
 To learn more about me and my research works, please visit https://asifzaman777.github.io/asifzaman/
 
 <h3 align="center"> Connect with Me at </h3>
