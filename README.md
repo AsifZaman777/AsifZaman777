@@ -1,6 +1,7 @@
 # Asif Zaman
-
-👋 Hi there, I'm Asif — a Junior Software Engineer at LankaBangla Securities PLC, Bangladesh.
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00F5FF&center=true&vCenter=true&width=1000&lines=Hello+I'm+Asif+Zaman;Software+Engineer+at+LankaBangla+Securities+PLC;Experiencing+the+ERP+solution+Development;Data+Science+Enthusiast" alt="Typing SVG" />
+</h1>
 
 ## 👨‍💻 Development Experience
 
@@ -20,7 +21,15 @@ At **LankaBangla Securities PLC**, I am actively involved in developing robust s
 
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e474icbn9jx7h8at2ycfg4tww2yo9weypzccguiq28n&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="300"/>
-  <h4>Experienced in cross-platform development, MERN stack, and enterprise-grade ERP systems (ASP.NET)</h4>
+<p align="center">
+  <img src="https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/-Next.js-black?style=for-the-badge&logo=next.js" />
+  <img src="https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/-ASP.NET Core-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+  <img src="https://img.shields.io/badge/-MS SQL Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+</p>
+
 
   <table>
     <tr>
