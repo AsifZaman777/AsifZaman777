@@ -5,11 +5,11 @@
 
 ## 👨‍💻 Development Experience
 
-With over 2 years of experience in React.js and the MERN stack, I have built scalable web and mobile applications for startups and enterprise clients. I specialize in:
+With the experience in React.js and the MERN stack, I have built scalable web and mobile applications for startups clients. Currently having hands-on experience with ERP solutions and expanding my knowledge on `ASP.Net` and `MSSQL` at **LankaBangla Securities PLC**. I specialize in:
 
 - Cross-platform mobile app development (iOS & Android)
-- Full-stack development (MERN)
-- ERP systems and capital market solutions
+- Full-stack development
+- ERP systems and capital market solutions with `ASP.NET Core` and `MSSQL`
 - Data science & machine learning contributions
 
 At **LankaBangla Securities PLC**, I am actively involved in developing robust software solutions for capital markets, trading platforms, and enterprise ERP systems.
