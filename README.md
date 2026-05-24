@@ -93,11 +93,6 @@
 ## 📊 GitHub Intelligence
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AsifZaman777&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&border_color=00D4FF&title_color=00D4FF&icon_color=00D4FF"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsifZaman777&langs_count=10&theme=github_dark&layout=compact&hide=html&border_color=00D4FF&title_color=00D4FF"/>
-</div>
-
-<div align="center">
   <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AsifZaman777&theme=github-dark-blue&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
 </div>
 
