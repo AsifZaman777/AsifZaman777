@@ -28,7 +28,7 @@
 
 ## About Me
 <img width="1440" height="1432" alt="image" src="https://github.com/user-attachments/assets/f9d111e6-0bf4-4eb6-86c5-5a87dfc44ab5" />
----
+
 
 ## LLM & AI Engineering
 
