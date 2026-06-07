@@ -26,9 +26,17 @@
 
 ---
 
-## About Me
-<img width="1440" height="1432" alt="image" src="https://github.com/user-attachments/assets/f9d111e6-0bf4-4eb6-86c5-5a87dfc44ab5" />
+## 🚀 About Me
 
+## 👨‍💻 About Me
+
+Hi, I'm **Asif Zaman** 👋 — a passionate **Software Engineer** from Bangladesh who enjoys transforming ideas into scalable digital products and impactful technology solutions.
+
+Currently, I work at **LankaBangla Securities PLC** as a Software Engineer, where I contribute to the development and enhancement of **Order Management Systems (OMS)** and fintech solutions that support modern capital market operations. My professional experience spans **full-stack fintech applications, ERP and SaaS platforms, real-time systems, cloud infrastructure, and AI-powered solutions**.
+
+Beyond my corporate role, I am the founder and owner of **CampusBaba**, a SaaS platform designed for **schools, colleges, coaching centers, and educational institutions**, helping streamline academic, administrative, and operational workflows through a centralized management system.
+
+I enjoy solving complex engineering challenges, designing scalable architectures, and continuously exploring emerging technologies to build products that create real-world value.
 
 ## LLM & AI Engineering
 
@@ -90,17 +98,6 @@
 
 </div>
 
-## 📊 GitHub Intelligence
-
-<div align="center">
-  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com?user=AsifZaman777&theme=github-dark-blue&border=00D4FF&ring=00D4FF&fire=FF6B35&currStreakLabel=00D4FF"/>
-</div>
-
-<div align="center">
-  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=AsifZaman777&bg_color=0D1117&color=00D4FF&line=0A3D62&point=00D4FF&area=true&hide_border=false&border_color=00D4FF"/>
-</div>
-
----
 
 ## 🎯 Current Focus
 
