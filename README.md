@@ -130,9 +130,4 @@ ERP        →  Capital market software at LankaBangla Securities PLC
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D4FF,50:0A3D62,100:0D1117&height=120&section=footer" width="100%"/>
-
-**⭐ If my work helped you, consider starring a repo!**
-
-*"Ship fast. Fine-tune smarter."* — Asif Zaman
-
 </div>
