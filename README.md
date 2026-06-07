@@ -26,9 +26,9 @@
 
 ---
 
-## 🚀 About Me
 
-## 👨‍💻 About Me
+
+## About Me
 
 Hi, I'm **Asif Zaman** 👋 — a passionate **Software Engineer** from Bangladesh who enjoys transforming ideas into scalable digital products and impactful technology solutions.
 
